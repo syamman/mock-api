@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "date": "dd/MM/yyyy",
+    "name": "Individual",
+    "total": 100
+  },
+  {
+    "id": 2,
+    "date": "dd/MM/yyyy",
+    "name": "Company A",
+    "total": 100
+  },
+  {
+    "id": 3,
+    "date": "dd/MM/yyyy",
+    "name": "Company B",
+    "total": 100
+  }
+]

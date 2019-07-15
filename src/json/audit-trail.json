@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "date": "02/02/2018",
+    "time": "11:05:11",
+    "log_type": "Search Inventory",
+    "task_type": "Card inventory record",
+    "branch": "HQ",
+    "staff_id": "C123"
+  },
+  {
+    "id": 2,
+    "date": "09/02/2018",
+    "time": "16:02:23",
+    "log_type": "Search conversion",
+    "task_type": "Card conversion",
+    "branch": "HQ",
+    "staff_id": "C125"
+  },
+  {
+    "id": 3,
+    "date": "11/02/2018",
+    "time": "14:24:53",
+    "log_type": "Search membership renewal",
+    "task_type": "Card membership",
+    "branch": "HQ",
+    "staff_id": "C127"
+  },
+  {
+    "id": 4,
+    "date": "12/02/2018",
+    "time": "10:22:12",
+    "log_type": "Search conversion",
+    "task_type": "Card conversion",
+    "branch": "HQ",
+    "staff_id": "C129"
+  }
+]

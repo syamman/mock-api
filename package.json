@@ -1,0 +1,30 @@
+{
+  "name": "fake-prime-backend",
+  "version": "0.1.0",
+  "description": "Fake backend for PRIME Portal. Replacing json-server in when building Angular in production mode.",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "ts-node": "ts-node ./src/server.ts",
+    "start": "node dist/server.js",
+    "prod": "npm run build && npm run start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://geek.bayo.my/cidbpay/back-end/microservice/fake-prime-backend.git"
+  },
+  "author": "Rashid Razak",
+  "license": "ISC",
+  "dependencies": {
+    "@types/dotenv": "^6.1.0",
+    "@types/express": "^4.16.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  }
+}

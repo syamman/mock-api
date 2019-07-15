@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "date_from": "yyyy/MM/dd",
+    "date_to": "yyyy/MM/dd",
+    "total": 400
+  },
+  {
+    "id": 2,
+    "date_from": "yyyy/MM/dd",
+    "date_to": "yyyy/MM/dd",
+    "total": 200
+  }
+]

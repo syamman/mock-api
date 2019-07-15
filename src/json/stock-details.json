@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "opening_balance": "",
+    "closing_balance": "",
+    "inventory_code": "",
+    "pic": "",
+    "in": "",
+    "out": "",
+    "balance": 1000
+  },
+  {
+    "id": 2,
+    "opening_balance": "",
+    "closing_balance": "",
+    "inventory_code": "",
+    "pic": "",
+    "in": "",
+    "out": "",
+    "balance": 2000
+  },
+  {
+    "id": 3,
+    "opening_balance": "",
+    "closing_balance": "",
+    "inventory_code": "",
+    "pic": "",
+    "in": "",
+    "out": "",
+    "balance": 3000
+  }
+]

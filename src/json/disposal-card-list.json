@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "date": "dd/MM/yyyy",
+    "cidb_id": "xxxxxxxx",
+    "full_name": "xxxxxxxx",
+    "id_number": "xxxxxxxx",
+    "category": "Card",
+    "type": "EMV Defect",
+    "remark": "xxxxxxxx"
+  },
+  {
+    "id": 2,
+    "date": "dd/MM/yyyy",
+    "cidb_id": "xxxxxxxx",
+    "full_name": "xxxxxxxx",
+    "id_number": "xxxxxxxx",
+    "category": "Card",
+    "type": "EMV Defect",
+    "remark": "xxxxxxxx"
+  },
+  {
+    "id": 3,
+    "date": "dd/MM/yyyy",
+    "cidb_id": "xxxxxxxx",
+    "full_name": "xxxxxxxx",
+    "id_number": "xxxxxxxx",
+    "category": "Card",
+    "type": "Qr Defect",
+    "remark": "xxxxxxxx"
+  },
+  {
+    "id": 4,
+    "date": "dd/MM/yyyy",
+    "cidb_id": "xxxxxxxx",
+    "full_name": "xxxxxxxx",
+    "id_number": "xxxxxxxx",
+    "category": "Card",
+    "type": "EMV Defect",
+    "remark": "xxxxxxxx"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "User Management",
+    "content": [
+      {
+        "id": 1,
+        "name": "Create Role",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 2,
+        "name": "Assign Staff",
+        "read": "assign_staff_read",
+        "write": "create_role_write"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Inventory",
+    "content": [
+      {
+        "id": 1,
+        "name": "Check And Request Card Stock",
+        "read": "check_request_card_stock_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 2,
+        "name": "Card Stock Verify",
+        "read": "card_stock_verify_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 3,
+        "name": "Card Stock Approval",
+        "read": "check_stock_approval_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 4,
+        "name": "Card Delivery Order Status",
+        "read": "card_delivery_order_status_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 5,
+        "name": "Receive Card",
+        "read": "receive_card_read",
+        "write": "create_role_write"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Printing Section",
+    "content": [
+      {
+        "id": 1,
+        "name": "Assign Printing Job with Auto Allocate",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 2,
+        "name": "Assign Printing Job with Manual Allocate",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 3,
+        "name": "Printing Request",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 4,
+        "name": "Card Printed Checker",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 5,
+        "name": "Reprint Process",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 6,
+        "name": "Integration With CIMS",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Audit Trail/ Logs",
+    "content": [
+      {
+        "id": 1,
+        "name": "Audit Trail / Log",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Reporting",
+    "content": [
+      {
+        "id": 1,
+        "name": "Card In / Out report",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      },
+      {
+        "id": 2,
+        "name": "Card Pending report",
+        "read": "create_role_read",
+        "write": "create_role_write"
+      }
+    ]
+  }
+]

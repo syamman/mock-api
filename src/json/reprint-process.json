@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "date": "yyyy/MM/dd",
+    "id_number": "xxxxxxxxxxx",
+    "full_name": "Razman",
+    "category": "Site",
+    "defect_type": "ok",
+    "branch": "HQ",
+    "pic": "xxxx"
+  },
+  {
+    "id": 2,
+    "date": "yyyy/MM/dd",
+    "id_number": "xxxxxxxxxxx",
+    "full_name": "Zaidy",
+    "category": "Indoor",
+    "defect_type": "not",
+    "branch": "HQ",
+    "pic": "xxxx"
+  }
+]
