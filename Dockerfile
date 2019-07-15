@@ -1,5 +1,5 @@
 ARG NODE_VERSION
-FROM node:${NODE_VERSION}
+FROM node:8.12.0
 
 WORKDIR /usr/src/app
 
