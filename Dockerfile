@@ -9,7 +9,7 @@ RUN npm install
 
 COPY . .
 
-EXPOSE 80
+EXPOSE 3001
 
 ## Waiting for MongoDB to be ready
 # ADD https://github.com/ufoscout/docker-compose-wait/releases/download/2.2.1/wait /wait
