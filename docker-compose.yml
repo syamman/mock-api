@@ -12,7 +12,7 @@ services:
       - "3005:3001"
     labels:
       - traefik.backend=fake_wallet_backend
-      - traefik.frontend.rule=Host:fake-wallet-backend.bayo.my
+      - traefik.frontend.rule=Host:fake-wallet-backend.testdev.com
       - traefik.docker.network=reverse_proxy
       - traefik.port=3001
     restart: always
