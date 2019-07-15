@@ -1,7 +1,7 @@
 {
-  "name": "fake-prime-backend",
+  "name": "fake-wallet-backend",
   "version": "0.1.0",
-  "description": "Fake backend for PRIME Portal. Replacing json-server in when building Angular in production mode.",
+  "description": "Fake backend for Wallet Portal. Replacing json-server in when building Mobile in production mode.",
   "main": "dist/server.js",
   "scripts": {
     "build": "tsc",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://geek.bayo.my/cidbpay/back-end/microservice/fake-prime-backend.git"
   },
-  "author": "Rashid Razak",
+  "author": "Syahmi Aiman",
   "license": "ISC",
   "dependencies": {
     "@types/dotenv": "^6.1.0",
