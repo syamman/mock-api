@@ -5,11 +5,11 @@ services:
     build:
       context: .
       args:
-        NODE_VERSION: ${NODE_VERSION}
+        NODE_VERSION: 8.12.0
     networks:
       - reverse_proxy
     ports:
-      - "3005:${EXPRESS_PORT}"
+      - "3005:3001"
     labels:
       - traefik.backend=fake_wallet_backend
       - traefik.frontend.rule=Host:fake-wallet-backend.bayo.my
